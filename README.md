@@ -1,8 +1,8 @@
 ## Table of Contents
 1. [About the Project](#about)
 1. [Project Status](#status)
-1. [Getting Started](#getting started)
-1. [Contact](#contact Me)
+1. [Getting Started](#gettingStarted)
+1. [Contact](#contactMe)
 
 # About the Project
 A local clock implemented using  JavaScript, CSS & HTML
