@@ -1,13 +1,13 @@
 ## Table of Contents
-1. [About the Project](#about)
-1. [Project Status](#status)
-1. [Getting Started](#gettingStarted)
-1. [Contact](#contactMe)
+### [About the Project](#about)
+### [Project Status](#status)
+ ### [Getting Started](#gettingStarted)
+ ### [Contact](#contactMe)
 
 # About the Project
 A local clock implemented using  JavaScript, CSS & HTML
 
-## Project Status
+# Project Status
 This project is fully finished technically. A finer customization might be added in the coming days
 
 # Getting Started
